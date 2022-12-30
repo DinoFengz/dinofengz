@@ -1,10 +1,22 @@
-### Hi , Im DinoFeng. Great to see you here!
- ### Contact Me
- - Discord: DinoNotFeng#5903
-![My Discord](https://discord-readme-badge.vercel.app/api?id=692209749009104946)
- - 
-- 🔭 I’m currently working on Kotlin/Java/JS.
-- 🌱 I’m currently learning python.
-- 💬 Ask me about JS
-###
- ![](https://github-readme-stats.vercel.app/api?username=dinofengz&show_icons=true&theme=tokyonight)
+# Hi , Im DinoFeng. Great to see you here!
+## Contact Me
+  - [![DinoNotFeng#5903](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=black)](https://discord.com/users/692209749009104946) : DinoNotFeng#5903
+  - 
+## About Me
+### UserInfo
+#### ![](https://github-readme-stats.vercel.app/api?username=dinofengz&show_icons=true&theme=tokyonight)
+### Programming Language 
+[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https://developer.android.com/)
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com/)
+[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+
+### IDE
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
+
+## Project
+### FDP Project
+#### [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SkidderMC&repo=FDPClient&show_owner=true&theme=tokyonight)](https://bit.ly/fdpgithub)
+#### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=contionability&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/contionability/)
