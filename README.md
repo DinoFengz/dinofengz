@@ -1,7 +1,6 @@
 # Hi , Im DinoFeng. Great to see you here!
 ## Contact Me
-  - [![DinoNotFeng#5903](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=black)](https://discord.com/users/692209749009104946) : DinoNotFeng#5903
-  - 
+### [![DinoNotFeng#5903](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=black)](https://discord.com/users/692209749009104946) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20883793/dinofeng)
 ## About Me
 ### UserInfo
 #### ![](https://github-readme-stats.vercel.app/api?username=dinofengz&show_icons=true&theme=tokyonight)
