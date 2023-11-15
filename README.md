@@ -15,4 +15,4 @@
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 
 ## KCHS Discord
-### [![AH](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=black)]([https://discord.com/users/692209749009104946](https://discord.gg/kchs-craft-716626608609296444))
+### [![AH](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=black)](https://discord.gg/kchs-craft-716626608609296444)
