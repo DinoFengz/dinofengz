@@ -1,8 +1,7 @@
 # Hi, I'm DinoFeng.
-## ![KCHS Discord]((https://discord.gg/kchs-craft-716626608609296444))
 
 ## Contact Me
-### [![DinoNotFeng#5903](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=black)](https://discord.com/users/692209749009104946) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20883793/dinofeng)
+### [![DinoFeng](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=black)](https://discord.com/users/692209749009104946) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20883793/dinofeng)
 ## About Me
 ### Programming Language I Used 
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
@@ -15,3 +14,5 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 
+## KCHS Discord
+### [![AH](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=black)]([https://discord.com/users/692209749009104946](https://discord.gg/kchs-craft-716626608609296444)https://discord.gg/kchs-craft-716626608609296444)
