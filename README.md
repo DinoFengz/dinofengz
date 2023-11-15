@@ -1,11 +1,9 @@
-# Hi , Im DinoFeng. Great to see you here!
+# Hi, I'm DinoFeng.
+
 ## Contact Me
 ### [![DinoNotFeng#5903](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=black)](https://discord.com/users/692209749009104946) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20883793/dinofeng)
 ## About Me
-### UserInfo
-#### [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=DinoFengz&data=followers,repositories,stars&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
-#### ![](https://github-readme-stats.vercel.app/api?username=dinofengz&show_icons=true&theme=tokyonight)
-### Programming Language 
+### Programming Language I Used 
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https://developer.android.com/)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com/)
